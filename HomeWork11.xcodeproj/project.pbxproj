@@ -13,6 +13,8 @@
 		3D906C0928339B6D0090FAB8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D906C0728339B6D0090FAB8 /* Main.storyboard */; };
 		3D906C0B28339B6F0090FAB8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D906C0A28339B6F0090FAB8 /* Assets.xcassets */; };
 		3D906C0E28339B6F0090FAB8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D906C0C28339B6F0090FAB8 /* LaunchScreen.storyboard */; };
+		3D906C182833D0200090FAB8 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D906C172833D0200090FAB8 /* NewViewController.swift */; };
+		3D906C1A28361AD10090FAB8 /* ViewControllerVKScreneHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D906C1928361AD10090FAB8 /* ViewControllerVKScreneHome.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		3D906C0A28339B6F0090FAB8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D906C0D28339B6F0090FAB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D906C0F28339B6F0090FAB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D906C172833D0200090FAB8 /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
+		3D906C1928361AD10090FAB8 /* ViewControllerVKScreneHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerVKScreneHome.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +62,13 @@
 			children = (
 				3D906C0128339B6D0090FAB8 /* AppDelegate.swift */,
 				3D906C0328339B6D0090FAB8 /* SceneDelegate.swift */,
+				3D906C172833D0200090FAB8 /* NewViewController.swift */,
 				3D906C0528339B6D0090FAB8 /* ViewController.swift */,
 				3D906C0728339B6D0090FAB8 /* Main.storyboard */,
 				3D906C0A28339B6F0090FAB8 /* Assets.xcassets */,
 				3D906C0C28339B6F0090FAB8 /* LaunchScreen.storyboard */,
 				3D906C0F28339B6F0090FAB8 /* Info.plist */,
+				3D906C1928361AD10090FAB8 /* ViewControllerVKScreneHome.swift */,
 			);
 			path = HomeWork11;
 			sourceTree = "<group>";
@@ -141,6 +147,8 @@
 				3D906C0628339B6D0090FAB8 /* ViewController.swift in Sources */,
 				3D906C0228339B6D0090FAB8 /* AppDelegate.swift in Sources */,
 				3D906C0428339B6D0090FAB8 /* SceneDelegate.swift in Sources */,
+				3D906C1A28361AD10090FAB8 /* ViewControllerVKScreneHome.swift in Sources */,
+				3D906C182833D0200090FAB8 /* NewViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
